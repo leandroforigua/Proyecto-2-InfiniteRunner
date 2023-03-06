@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Dia
+  - Tarde
+  - Noche
+  - Incendio
+  - Piso
+  - Eggs
+  - Enemigos
+  - Adds
+  - Personaje
+  - Solomillo
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Piso
+  - Water
+  - UI
+  - Personaje
+  - Enemigos
+  - Solomillo
+  - Eggs
+  - Adds
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo 0
+    uniqueID: 1092135873
+    locked: 0
+  - name: Fondo 1
+    uniqueID: 3095346253
+    locked: 0
+  - name: Fondo Dinamico
+    uniqueID: 583006451
+    locked: 0
+  - name: Fondo 2
+    uniqueID: 829798371
+    locked: 0
+  - name: Items y Enemigos
+    uniqueID: 4199525073
+    locked: 0
+  - name: PJs
+    uniqueID: 2708821831
+    locked: 0

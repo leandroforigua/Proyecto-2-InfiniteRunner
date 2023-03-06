@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2485ae5e9e6487848a045b7686baa662
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Caveman
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 659b4c286a3b7424484946b6cc678e89, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

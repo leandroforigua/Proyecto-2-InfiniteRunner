@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 97f901bfd44ac944c8521c0088c7ff22
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: types-of-volcano-eruption_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 486
+        width: 675
+        height: 494
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1104ef5c4bafa94e83b76f74665ccf7
+      internalID: -2101448654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: types-of-volcano-eruption_20
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 493
+        width: 657
+        height: 486
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0c79cf4fa15544eb3d76ca4d69ad0c
+      internalID: 1850092843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: types-of-volcano-eruption_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 15
+        width: 677
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb67d922e0ee8641928e23a7c7a34c3
+      internalID: -346260235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: types-of-volcano-eruption_38
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 0
+        width: 656
+        height: 489
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a75d9530749c941851cf0c837eff68
+      internalID: -406787863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      types-of-volcano-eruption_7: -1863976885
+      types-of-volcano-eruption_23: -1576024252
+      types-of-volcano-eruption_16: -989835195
+      types-of-volcano-eruption_20: 1850092843
+      types-of-volcano-eruption_1: 1614965017
+      types-of-volcano-eruption_25: -1885510728
+      types-of-volcano-eruption_9: 2138492900
+      types-of-volcano-eruption_4: -1736128157
+      types-of-volcano-eruption_8: -202448191
+      types-of-volcano-eruption_14: 1629578601
+      types-of-volcano-eruption_3: 1424452575
+      types-of-volcano-eruption_19: -2057849302
+      types-of-volcano-eruption_30: 670321009
+      types-of-volcano-eruption_28: -1327470753
+      types-of-volcano-eruption_37: 1746864797
+      types-of-volcano-eruption_35: 884865882
+      types-of-volcano-eruption_21: -1965342818
+      types-of-volcano-eruption_15: 1301496842
+      types-of-volcano-eruption_31: 1017314517
+      types-of-volcano-eruption_38: -406787863
+      types-of-volcano-eruption_32: -189205535
+      types-of-volcano-eruption_34: -1838672633
+      types-of-volcano-eruption_39: 2058217932
+      types-of-volcano-eruption_0: 265621295
+      types-of-volcano-eruption_12: -1946009343
+      types-of-volcano-eruption_22: -2067890480
+      types-of-volcano-eruption_10: 133054712
+      types-of-volcano-eruption_13: 512183116
+      types-of-volcano-eruption_2: 1462124848
+      types-of-volcano-eruption_18: -2101448654
+      types-of-volcano-eruption_36: 2105906386
+      types-of-volcano-eruption_17: 1917152379
+      types-of-volcano-eruption_26: -732180593
+      types-of-volcano-eruption_33: -346260235
+      types-of-volcano-eruption_5: -1481449922
+      types-of-volcano-eruption_11: 202072998
+      types-of-volcano-eruption_6: 876697085
+      types-of-volcano-eruption_24: -2003672376
+      types-of-volcano-eruption_29: 1276235479
+      types-of-volcano-eruption_27: -931925876
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
